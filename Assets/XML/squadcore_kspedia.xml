@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KSPedia xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="squadcore" CreatedTime="-8585223223900981364">
+  <Categories>
+    <Category Name="KSP ∆v Map">
+      <Title>KSP ∆v Map</Title>
+      <TitleScreen />
+      <Screens />
+      <Subcategories>
+        <Subcategory Name="Dark">
+          <Title>Dark</Title>
+          <TitleScreen />
+          <Screens />
+          <Subcategories />
+        </Subcategory>
+        <Subcategory Name="Light">
+          <Title>Light</Title>
+          <TitleScreen />
+          <Screens />
+          <Subcategories />
+        </Subcategory>
+      </Subcategories>
+    </Category>
+  </Categories>
+  <Screens />
+</KSPedia>

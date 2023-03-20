@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KSPBundleDefinition xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" UrlName="ksp ∆v map" Name="ksp ∆v map" CreatedTime="-8585223109986042454" AutoLoad="false">
+  <Author>tinygrox</Author>
+  <Info />
+  <Assets>
+    <Asset Name="BackGround.Panel" Path="Assets/BackGround.Panel.prefab" Type="GameObject" Url="BackGround" AutoLoad="false" />
+    <Asset Name="CN_Dark" Path="Assets/CN_Dark.prefab" Type="GameObject" Url="CN_Dark" AutoLoad="false" />
+    <Asset Name="CN_Light" Path="Assets/CN_Light.prefab" Type="GameObject" Url="CN_Light" AutoLoad="false" />
+    <Asset Name="EN_Dark" Path="Assets/EN_Dark.prefab" Type="GameObject" Url="EN_Dark" AutoLoad="false" />
+    <Asset Name="EN_Light" Path="Assets/EN_Light.prefab" Type="GameObject" Url="EN_Light" AutoLoad="false" />
+    <Asset Name="RSS" Path="Assets/RSS.prefab" Type="GameObject" Url="RSS" AutoLoad="false" />
+    <Asset Name="ksp ∆v map_kspedia" Path="Assets/XML/ksp ∆v map_kspedia.xml" Type="TextAsset" Url="XML/ksp ∆v map_kspedia" AutoLoad="false" />
+  </Assets>
+  <Dependencies>
+    <Dependency>squadcore</Dependency>
+  </Dependencies>
+</KSPBundleDefinition>

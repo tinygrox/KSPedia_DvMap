@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KSPedia xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="dvmap_core" CreatedTime="-8585223146842275907">
+  <Categories>
+    <Category Name="dvmap">
+      <Title>dvmap</Title>
+      <TitleScreen />
+      <Screens />
+      <Subcategories>
+        <Subcategory Name="light">
+          <Title>light</Title>
+          <TitleScreen />
+          <Screens />
+          <Subcategories />
+        </Subcategory>
+        <Subcategory Name="scroll">
+          <Title>scroll</Title>
+          <TitleScreen />
+          <Screens />
+          <Subcategories />
+        </Subcategory>
+      </Subcategories>
+    </Category>
+  </Categories>
+  <Screens />
+</KSPedia>

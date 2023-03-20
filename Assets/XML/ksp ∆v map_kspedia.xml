@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KSPedia xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="ksp ∆v map" CreatedTime="-8585223110106931947">
+  <Categories>
+    <Category Name="KSP ∆v Map">
+      <Title>KSP Δv Map</Title>
+      <TitleScreen>BackGround.Panel</TitleScreen>
+      <Screens />
+      <Subcategories>
+        <Subcategory Name="Light">
+          <Title>Light</Title>
+          <TitleScreen>EN_Light</TitleScreen>
+          <Screens />
+          <Subcategories />
+        </Subcategory>
+        <Subcategory Name="Dark">
+          <Title>Dark</Title>
+          <TitleScreen>EN_Dark</TitleScreen>
+          <Screens />
+          <Subcategories />
+        </Subcategory>
+        <Subcategory Name="CN_Light">
+          <Title>亮色主题</Title>
+          <TitleScreen>CN_Light</TitleScreen>
+          <Screens />
+          <Subcategories />
+        </Subcategory>
+        <Subcategory Name="CN_Dark">
+          <Title>暗色主题</Title>
+          <TitleScreen>CN_Dark</TitleScreen>
+          <Screens />
+          <Subcategories />
+        </Subcategory>
+        <Subcategory Name="RSS">
+          <Title>Real Solar System</Title>
+          <TitleScreen>RSS</TitleScreen>
+          <Screens />
+          <Subcategories />
+        </Subcategory>
+      </Subcategories>
+    </Category>
+  </Categories>
+  <Screens>
+    <Screen Name="RSS">
+      <BundleName>ksp ∆v map</BundleName>
+      <AssetPath>Assets/RSS.prefab</AssetPath>
+      <Title>Real Solar System</Title>
+      <Background />
+      <Text />
+      <Tooltips />
+    </Screen>
+    <Screen Name="EN_Light">
+      <BundleName>ksp ∆v map</BundleName>
+      <AssetPath>Assets/EN_Light.prefab</AssetPath>
+      <Title>Light</Title>
+      <Background />
+      <Text />
+      <Tooltips />
+    </Screen>
+    <Screen Name="EN_Dark">
+      <BundleName>ksp ∆v map</BundleName>
+      <AssetPath>Assets/EN_Dark.prefab</AssetPath>
+      <Title>Dark</Title>
+      <Background />
+      <Text />
+      <Tooltips />
+    </Screen>
+    <Screen Name="CN_Light">
+      <BundleName>ksp ∆v map</BundleName>
+      <AssetPath>Assets/CN_Light.prefab</AssetPath>
+      <Title>亮色版</Title>
+      <Background />
+      <Text />
+      <Tooltips />
+    </Screen>
+    <Screen Name="CN_Dark">
+      <BundleName>ksp ∆v map</BundleName>
+      <AssetPath>Assets/CN_Dark.prefab</AssetPath>
+      <Title>暗色版</Title>
+      <Background />
+      <Text />
+      <Tooltips />
+    </Screen>
+    <Screen Name="BackGround.Panel">
+      <BundleName>ksp ∆v map</BundleName>
+      <AssetPath>Assets/BackGround.Panel.prefab</AssetPath>
+      <Title>KSP Δv Map</Title>
+      <Background />
+      <Text>
+        <Text Name="Text">
+          <Text>坎巴拉太空计划 dv图</Text>
+        </Text>
+      </Text>
+      <Tooltips />
+    </Screen>
+  </Screens>
+</KSPedia>

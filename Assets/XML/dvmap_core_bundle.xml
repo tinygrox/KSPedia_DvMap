@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KSPBundleDefinition xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" UrlName="dvmap_core" Name="dvmap_core" CreatedTime="-8585223191232454198" AutoLoad="false">
+  <Author />
+  <Info />
+  <Assets>
+    <Asset Name="BackGround.Panel" Path="Assets/BackGround.Panel.prefab" Type="GameObject" Url="BackGround" AutoLoad="false" />
+    <Asset Name="CN1" Path="Assets/CN1.prefab" Type="GameObject" Url="CN1" AutoLoad="false" />
+    <Asset Name="CN2" Path="Assets/CN2.prefab" Type="GameObject" Url="CN2" AutoLoad="false" />
+    <Asset Name="dvmap_core_kspedia" Path="Assets/XML/dvmap_core_kspedia.xml" Type="TextAsset" Url="XML/dvmap_core_kspedia" AutoLoad="false" />
+  </Assets>
+  <Dependencies>
+    <Dependency>squadcore</Dependency>
+  </Dependencies>
+</KSPBundleDefinition>
